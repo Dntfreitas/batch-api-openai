@@ -1,0 +1,7 @@
+.idea
+__pycache__
+.env
+batch_work.json
+input_file_id.txt
+batch_work_batch_*.json
+output*.jsonl
